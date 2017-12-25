@@ -1,0 +1,5 @@
+'compose-all-correct', (0, 70)
+'deep-map-correct', (512, 70)
+'make_generators_generator-correct', (1024, 70)
+'permutations-correct', (1536, 70)
+'pairs-correct', (2048, 70)
